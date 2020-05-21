@@ -1,7 +1,7 @@
 # Recycle-Bin-Icon-Refresher
 I introduce you the RBIR v1.0
 
-
+![](title.png)
 
 This application provides an automatic icon refresh for recycle bin.
 
