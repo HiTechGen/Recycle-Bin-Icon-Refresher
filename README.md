@@ -1,9 +1,14 @@
 # Recycle-Bin-Icon-Refresher
 I introduce you the RBIR v1.0
 
-![](sample.png)
+
 
 This application provides an automatic icon refresh for recycle bin.
+
+![](sample.png)
+
+Description:
+
 
 If recycle bin is full/empty it'll automatically refresh the desktop so it will automatically change the icon without being manually refresh.
 
