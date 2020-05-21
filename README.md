@@ -11,4 +11,8 @@ If you want the application to run hidden then open (rbir-hidden.bat).
 
 To stop the application just simply open the (stop.exe).
 
+If icon didn't change or there's no changes just manually refresh the desktop once.
+
+You shouldn't change filename & extension.
+
 Feel free to send your feedback at my gmail: techlord4lyfans@gmail.com
